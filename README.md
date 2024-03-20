@@ -1,12 +1,9 @@
-# Sistemas-embarcados
-
 # Projeto Retificador com Proteus
 
-Este projeto implementa um retificador de onda completa utilizando o software Proteus. O retificador é simulado e projetado no ambiente do Proteus, permitindo a visualização e análise do comportamento do circuito em corrente alternada (CA) para corrente contínua (CC).
-
+Este projeto implementa um retificador de onda completa utilizando o software Proteus. Um retificador é um dispositivo que converte corrente alternada (CA) em corrente contínua (CC). Ele utiliza componentes como diodos semicondutores para permitir que a corrente flua em uma única direção. Por outro lado, quando é polarizado inversamente (anodo negativo e catodo positivo), ele bloqueia o fluxo de corrente.
 ## Funcionalidades
 
-- Simulação de um retificador de onda completa.
+- Simulação de um retificador.
 - Conversão de corrente alternada em corrente contínua.
 - Visualização das formas de onda e análise do comportamento do circuito.
 
